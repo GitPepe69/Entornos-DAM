@@ -35,3 +35,4 @@ def conjuga(verbo):
 
 
 print(conjuga("juxtaposicionar"))
+print(conjuga("peder")
